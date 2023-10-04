@@ -1,0 +1,12 @@
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Matematik\Matematik\bin\Debug\Matematik.exe.config
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Matematik\Matematik\bin\Debug\Matematik.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Matematik\Matematik\bin\Debug\Matematik.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Matematik\Matematik\obj\Debug\Matematik.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Matematik\Matematik\obj\Debug\Matematik.csproj.SuggestedBindingRedirects.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Matematik\Matematik\obj\Debug\Matematik.Form1.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Matematik\Matematik\obj\Debug\Matematik.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Matematik\Matematik\obj\Debug\Matematik.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Matematik\Matematik\obj\Debug\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Matematik\Matematik\obj\Debug\Matematik.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Matematik\Matematik\obj\Debug\Matematik.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Matematik\Matematik\obj\Debug\Matematik.MATEMATİK_2.resources
